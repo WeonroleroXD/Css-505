@@ -384,12 +384,14 @@
 
 .fiveofivepostbodypostrighttop {
     border-bottom: 1px solid var(--mainborderl);
-    font-family: 'JetBrains Mono';
+    font-family: 'Roboto';
     box-sizing: border-box;
     padding: 10px;
     text-align: right;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    color: var(--grupcolor); 
+	font-size: 11px; 
+	font-weight: bold;
 }
 
 .fiveofivepostbodyposttxt {
